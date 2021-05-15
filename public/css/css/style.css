@@ -1,0 +1,192 @@
+img[src*="000webhost"]{
+display: none !important;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after {
+    clear: both;
+}
+.clearfix {
+    *zoom: 1;
+}
+.navbar-toggle{
+	margin-top: 38px;
+	margin-left: 0;
+	margin-right: 0;
+}
+#clear{
+	clear: both;
+}
+.navbar-default{
+	background: #23b759;
+	border: none;
+}
+#headbody{
+	
+	background: #23b759;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-bottom: 1px solid #ccc;
+	padding: 0px;
+}
+
+#logo{
+
+	padding: auto 0;
+}
+#menutren li a{
+	
+	font-size: 20px;
+	font-family: "Times New Roman";
+	height: 30px;
+	line-height: 30px;
+	color: #fff;
+	font-weight: bold;
+	padding: 45px 20px 15px 15px;
+}
+#menutren li a:hover{
+	
+	color: #000;
+	font-weight: bold;
+}
+
+#vechungtoi{
+	margin-top: 16px;
+	padding: 0;
+	border: 1px solid #ccc;
+	border-top: none;
+}
+#gioithieu{
+	width: 190px;
+	font-size: 25px;
+	font-family: "Times New Roman";
+	border-bottom: 1px solid #ff9d02;
+	color: blue;
+	font-weight: bold;
+}
+
+#what{
+	padding: 10px 0 0 0;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	background: #f5f6fa;
+}
+
+#whatnoidung{
+	text-align: center;
+	font-size: 25px;
+	background: #f5f6fa;
+	padding: 10px;
+}
+#hoatdong{
+	padding: 50px 0 20px 0;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+#hoatdongx{
+	text-align: center;
+}
+#hoatdongtitle{
+	font-size: 20px;
+	font-weight: bold;
+}
+#hoatdongx #hoatdongnoidung{
+	font-size: 20px;
+}
+
+#banner{
+	padding: 15px;
+	background: #202e77;
+	text-align: center;
+}
+#bannerwhat{
+	padding: 10px 0 0 0;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	color: #fff;
+
+}
+#bannerwhatnoidung{
+	text-align: center;
+	font-size: 20px;
+	color: #afb2c2;
+	padding: 10px 0 20px 0;
+
+}
+#bannerbutton{
+
+	padding: 10px 10px 10px 10px;
+
+	border: 2px solid #fff;
+	border-radius: 5px;
+	font-size: 20px;
+	color: #fff;
+	font-weight: bold;
+}
+
+#footer{
+	background: none;
+	padding: 5px5px 0px 5px;
+}
+#footerwhat{
+	color: purple;
+	font-size: 20px;
+	font-weight: bold;
+	height: 80px;
+	line-height: 80px;
+}
+#footerbnnerwhatnoidung{
+	text-align: left;
+	padding: 10px 5px 3px 5px;
+	font-size: 20px;
+}
+
+#nhanxet{
+	margin-top: 5px;
+	padding-bottom: 10px;
+	padding-bottom: 40px;
+	border: 2px solid #ccc;
+	background: #202e77;
+}
+#nhanxettitle{
+	text-align: center;
+	font-size: 20px;
+	padding-top: 30px;
+	font-weight: bold;
+	color: yellow;
+}
+
+#danhanxet{
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 2px 2px blue;
+	margin-top: 2px;
+}
+#danhanxetname{
+	padding-top: 25px;
+}
+#danhanxetdate{
+	padding-top: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+#danhanxetnoidung{
+	padding-top: 20px;
+	font-style: italic;
+	text-align: justify;
+}
+#onetwothree{
+	text-align: justify;
+	font-size: 20px;
+}
